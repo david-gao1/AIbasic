@@ -27,4 +27,4 @@ def flip_plot(minExp, maxExp):
 
 
 if __name__ == '__main__':
-    flip_plot(10, 26)
+    flip_plot(10, 16)
